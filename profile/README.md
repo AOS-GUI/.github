@@ -3,9 +3,11 @@ AOS-GUI is an "operating system" you can run within Windows, MacOS, or Linux, wr
 
 ---
 
-### Our members
+### Owners
 
 [nanobot567](https://github.com/nanobot567) (programming, testing, documentation)
+
+### Contributors
 
 [Slav-XpXz](https://github.com/Slav-XpXz) (programming, testing, ideas, tips)
 
