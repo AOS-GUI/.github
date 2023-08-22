@@ -1,5 +1,12 @@
-# [AOS-GUI](https://github.com/aos-gui/aos-gui/)
-AOS-GUI is a cross-platform shell for modern computers. This org is for everything related to the project.
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="MDs/resources/images/aosgui-white.png">
+        <source media="(prefers-color-scheme: light)" srcset="MDs/resources/images/aosgui-dark.png">
+        <img src="MDs/resources/images/aosgui-dark.png">
+    </picture>
+</p>
+
+[AOS-GUI](https://github.com/aos-gui/aos-gui/) is a cross-platform shell for modern computers. This org is for everything related to the project.
 
 ---
 
