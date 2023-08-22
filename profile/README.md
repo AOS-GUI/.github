@@ -1,8 +1,8 @@
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="MDs/resources/images/aosgui-white.png">
-        <source media="(prefers-color-scheme: light)" srcset="MDs/resources/images/aosgui-dark.png">
-        <img src="MDs/resources/images/aosgui-dark.png">
+        <source media="(prefers-color-scheme: dark)" srcset="images/aosgui-white.png">
+        <source media="(prefers-color-scheme: light)" srcset="images/aosgui-dark.png">
+        <img src="images/aosgui-dark.png">
     </picture>
 </p>
 
