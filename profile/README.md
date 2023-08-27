@@ -16,6 +16,6 @@
 
 ### Contributors
 
-[Slav-XpXz](https://github.com/Slav-XpXz) (programming, testing, ideas, tips)
-
-[JhonySousa](https://github.com/JhonySousa) (programming, testing, ideas, tips)
+<a href="https://github.com/AOS-GUI/AOS-GUI/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AOS-GUI/AOS-GUI" />
+</a>
